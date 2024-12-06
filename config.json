@@ -4,7 +4,7 @@
     "host": "minotaurx.eu.mine.zpool.ca",
     "port": 7019,
     "worker": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi",
-    "password": "c=RVN",
+    "password": "c=RVN,zap=AVN/PLSR-mino",
     "workers": 4
   },
   {
@@ -12,7 +12,7 @@
     "host": "minotaurx.eu.mine.zpool.ca",
     "port": 7019,
     "worker": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi",
-    "password": "c=RVN",
+    "password": "c=RVN,zap=AVN/PLSR-mino",
     "workers": 4
   }
 ]
